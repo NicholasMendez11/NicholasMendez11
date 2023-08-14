@@ -17,7 +17,7 @@
 <h2 align="center">🛠 Skills</h2>
 
 <p align="center">
-  JavaScript, HTML, CSS, React.js, React Native, Next.js, Tailwind CSS, Jetpack Compose, Flutter, Firebase...
+React, flutter, more...
 </p>
 
 <!-- Enlaces -->
