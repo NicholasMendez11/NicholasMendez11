@@ -1,26 +1,43 @@
-## 👨🏽‍💻🚀 About Me
-Sofware developer. Looking forward to expanding my
-skills and knowledge within the software development
-industry, contributing with ideas, solutions, and results
-in a meaningful way. A faithful believer in teamwork,
-how this allows us to achieve more, and that success is
-always better when is shared.
+<!-- Encabezado -->
+<h1 align="center">👨🏽‍💻🚀 About Me</h1>
 
-👨‍🎓Learner by passion...
+<p align="center">
+  Software developer passionate about expanding skills and knowledge within the software development industry. Committed to contributing innovative ideas, solutions, and impactful results. A firm believer in the power of teamwork, achieving more together, and that shared success is the ultimate reward.
+</p>
 
+<!-- Separador -->
+<hr>
 
+<!-- Introducción -->
+<p align="center">
+  <strong>👨‍🎓Learner by Passion...</strong>
+</p>
 
-## 🛠 Skills
-Javascript, HTML, CSS, React js, React Native, Next js, Tailwind css, Jetpack Compose, Flutter, Firebase... 
+<!-- Habilidades -->
+<h2 align="center">🛠 Skills</h2>
 
+<p align="center">
+  JavaScript, HTML, CSS, React.js, React Native, Next.js, Tailwind CSS, Jetpack Compose, Flutter, Firebase...
+</p>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-one-zeta.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasgmendez/)
-[![LinkTree](https://img.shields.io/badge/linktree-00000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nicholasmendez11)
+<!-- Enlaces -->
+<h2 align="center">🔗 Links</h2>
 
+<p align="center">
+  <a href="https://portafolio-one-zeta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/nicholasgmendez/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://linktr.ee/nicholasmendez11" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-00000?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree">
+  </a>
+</p>
 
-## Feedback
+<!-- Feedback -->
+<h2 align="center">Feedback</h2>
 
-If you have any feedback, please reach me out at nicholasmeeendez@gmail.com
-
+<p align="center">
+  If you have any feedback, please feel free to reach out to me at nicholasmeeendez@gmail.com
+</p>
