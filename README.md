@@ -75,7 +75,7 @@
 <h2 align="center">🔗 Links</h2>
 
 <p align="center">
-  <a href="https://portafolio-one-zeta.vercel.app/" target="_blank">
+  <a href="https://ngmb.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/nicholasgmendez/" target="_blank">
